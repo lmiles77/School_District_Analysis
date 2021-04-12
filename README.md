@@ -1,5 +1,6 @@
-# School_District_Analysis
-## School_District_Analysis: PyCity Schools
+
+# School_District_Analysis: PyCity Schools
+
 The purpose of the PyCity Schools analysis project is to understand impact of academic dishonesty by replacing math and reading grades of 9th grade students at Thomas High school with NANs. Analysis in this report is presented through multiple parameters to include reading/math scores of high and low performing schools, school size, per capita spending, and school type. This analysis will assist the school board and members of the community with understanding the impact of academic dishonesty. While also communicating to members of the community, students, and faculty their commitment to upholding state-testing standards.
 
 # Results
